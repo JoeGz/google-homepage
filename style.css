@@ -1,0 +1,33 @@
+.logo {
+	margin: 200px 0px 0px 700px;
+}
+.search {
+	margin: 50px 0px 0px 575px;
+}
+input {
+	width: 50%;
+}
+.button {
+	margin: 50px 0px 0px 730px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	text-align: center;
+	padding: 8px 8px;
+	text-decoration: none;
+}
+footer {
+	padding: 240px 0px 0px 0px;
+}
